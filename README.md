@@ -43,7 +43,7 @@ much more.
 - [Neorg Exec](https://github.com/laher/neorg-exec) - code block execution for neorg.
 - [Neorg Capture](https://github.com/pritchett/neorg-capture) - A neorg module to capture quick notes using neorg-templates
 - [Neorg Hop Extras](https://github.com/phenax/neorg-hop-extras) - A neorg module that adds a few new types of links like commands, aliases, etc.
-
+- [Neorg create_link](https://github.com/madskjeldgaard/neorg-create_link-module) - a prompt for creating a link, automatically makes file/folder structure as well.
 ## Notes Collection
 
 - [Library of Norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - This repository aims to be a monolithic collection of notes about any topic, written in the `.norg` file format.
